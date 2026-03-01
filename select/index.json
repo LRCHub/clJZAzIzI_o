@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Never Loved This Way Before",
+  "base_artist": "BOYNEXTDOOR",
+  "createdAt": "2026-03-01T11:41:02.996017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Loved This Way Before",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/01_Never_Loved_This_Way_Before_BOYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Loved This Way Before",
+      "artist": "CHEEZE",
+      "has_synced": true,
+      "path": "select/02_Never_Loved_This_Way_Before_CHEEZE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Loved This Way Before - Single",
+      "artist": "CHEEZE",
+      "has_synced": true,
+      "path": "select/03_Never_Loved_This_Way_Before_-_Single_CHEEZE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Loved This Way Before - Inst.",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": false,
+      "path": "select/04_Never_Loved_This_Way_Before_-_Inst._BOYNEXTDOOR.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Loved This Way Before",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Loved_This_Way_Before_BOYNEXTDOOR.txt"
+    }
+  ]
+}
